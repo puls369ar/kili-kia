@@ -2,6 +2,9 @@
 In this repo I'll assemble all the details about initialization of my marketing/sponsorhsip project where I am trying to 
 be funded for my Kilimanjaro Climbing.
 
+# PPT Motto
+Conquer Mountains, One Snickers at a Time
+
 # PPT Plan
 
 ## Slide 1: Title Slide
@@ -70,4 +73,10 @@ be funded for my Kilimanjaro Climbing.
 
 ## Slide 10: Visual Highlights
 - Add high-quality images or a short video from past adventures or training sessions to leave a lasting impression.
- 
+
+
+# PPT Design
+I don't see what can be the design of the PPT 
+
+
+[Video](https://www.youtube.com/watch?v=RJDpRUKwaNo`) explaining how to create nice transitions in PPT
