@@ -3,20 +3,19 @@ In this repo I'll assemble all the details about initialization of my marketing/
 be funded for my Kilimanjaro Climbing.
 
 # PPT Motto
-Conquer Mountains, One Snickers at a Time
+
 
 # PPT Plan
 
 ## Slide 1: Title Slide
-- **Title**: Sponsorship Proposal for Mountain Climbing Expedition  
-- **Subtitle**: Your Name/Team Name  
-- **Image**: A captivating mountain or climbing image.  
-- **Details**: Include date and contact details.
-
+- Conquer Mountains, One Snickers at a Time
+- Imagine Snickers becoming the brand promoting Alpinism
+- But first, let me introduce myself
 ---
 
 ## Slide 2: Introduction
-- **Who You Are**: Brief introduction of yourself/team.  
+- **Who You Are**: Hi My Name is Arta Johan
+- I am a Mountain Climber 
 - **Experience**: Highlight your climbing or adventure experience.  
 - **Purpose**: State why you’re climbing the mountain (personal challenge, raising awareness, etc.).
 
