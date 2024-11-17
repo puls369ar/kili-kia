@@ -1,6 +1,6 @@
 # kili-kia
 In this repo I'll assemble all the details about initialization of my marketing/sponsorhsip project where I am trying to 
-be funded for my Kilimanjaro Climbing.
+be funded for my Kilimanjaro Climbing. Here is presented PPT Plan and concept, also my marathon training schedule and notes and insights for Trek running.
 
 # PPT Motto
 
@@ -72,6 +72,42 @@ be funded for my Kilimanjaro Climbing.
 
 ## Slide 10: Visual Highlights
 - Add high-quality images or a short video from past adventures or training sessions to leave a lasting impression.
+
+
+# Marathon Training Schedule
+Sample Long Run Progression (Weeks 1–16)
+
+| Week | Long Run Distance |
+|------|-------------------|
+| 1    | 10 km             |
+| 2    | 13 km             |
+| 3    | 16 km             |
+| 4    | 10 km (cut-back)  |
+| 5    | 19 km             |
+| 6    | 23 km             |
+| 7    | 16 km (cut-back)  |
+| 8    | 26 km             |
+| 9    | 29 km             |
+| 10   | 19 km (cut-back)  |
+| 11   | 32 km             |
+| 12   | 16 km (cut-back)  |
+| 13   | 35 km             |
+| 14   | 19 km (cut-back)  |
+| 15   | Taper: 13–16 km   |
+| 16   | Race Day (42.2 km)|
+
+
+Weekly Running Schedule for first 8 weeks
+
+# Weekly Running Schedule
+
+- **Monday**: Rest or cross-training.  
+- **Tuesday**: Speed intervals – 6 km at 4:45 min/km.  
+- **Thursday**: Tempo run – 8 km at 5:40 min/km.  
+- **Saturday**: Long run – 20 km at 6:20 min/km.  
+
+
+
 
 
 # PPT Design
