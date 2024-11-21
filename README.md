@@ -104,10 +104,7 @@ Weekly Running Schedule for first 8 weeks
 - **Monday**: Rest or cross-training.  
 - **Tuesday**: Speed intervals – 6 km at 4:45 min/km.  
 - **Thursday**: Tempo run – 8 km at 5:40 min/km.  
-- **Saturday**: Long run – 20 km at 6:20 min/km.  
-
-
-
+- **Saturday**: Long run – 20 km at 6:20 min/km.
 
 
 # PPT Design
@@ -115,3 +112,15 @@ I don't see what can be the design of the PPT
 
 
 [Video](https://www.youtube.com/watch?v=RJDpRUKwaNo`) explaining how to create nice transitions in PPT
+
+
+
+
+# Traveling Europ
+2-5 days each city
+
+## Transport
+in+out ~100 USD
+
+Route: Italy->Austria->Chechia
+
