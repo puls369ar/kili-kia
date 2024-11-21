@@ -116,11 +116,8 @@ I don't see what can be the design of the PPT
 
 
 
-# Traveling Europ
-2-5 days each city
-
-## Transport
-in+out ~100 USD
-
-Route: Italy->Austria->Chechia
+# Traveling Europe
+* Time: 2-5 days each city
+* Transport: in+out ~100 USD
+* Route: Italy->Austria->Chechia
 
