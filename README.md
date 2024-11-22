@@ -120,4 +120,10 @@ I don't see what can be the design of the PPT
 * Time: 2-5 days each city, overall duration 1 Month
 * Flights: Yerevan->Rome 45USD, Prague->Yerevan 70USD (Jun, Jul)
 * Route: Italy[Rome->LevicoAlisTown(5 hours|40USD)]->Austria->Chechia
-* Visa: Only Italian Visa is needed
+* Rent:
+  * Poland - 20-30 USD (/2 for 2 person)
+  * Austria
+      * Vienn - 30-40
+      * Salzburg 40-60
+* Car rent: ?
+* Visa: Only Poland SHengen C-type Visa is needed
