@@ -119,7 +119,9 @@ I don't see what can be the design of the PPT
 # Traveling Europe
 * Time: 2-5 days each city, overall duration 1 Month
 * Flights: Yerevan->Rome 45USD, Prague->Yerevan 70USD (Jun, Jul)
-* Route: Italy[Rome->LevicoAlisTown(5 hours|40USD)]->Austria->Chechia
+* Route: [Google Maps 1](https://www.google.com/maps/dir/Rome,+Italy/Levico+Terme/Bregenz,+Austria/Hallstatt,+Austria/Salzburg,+Austria/Vienna/Bratislava,+Slovakia/Prague/Warsaw/Gdańsk/@48.2028339,15.5971322,9z/data=!4m62!4m61!1m5!1m1!1s0x13258a111bd74ac3:0x3094f9ab2388100!2m2!1d12.7135121!2d41.9214534!1m5!1m1!1s0x47789935e87299ef:0xea3df95f0281f48c!2m2!1d11.301007!2d46.0116173!1m5!1m1!1s0x479b0d620e6982ef:0xbf6aa7993530ff24!2m2!1d9.74231!2d47.50075!1m5!1m1!1s0x4771366f6e414663:0x16c165596a26c1ad!2m2!1d13.6492617!2d47.5622342!1m5!1m1!1s0x47769adda908d4b1:0xc1e183a1412af73d!2m2!1d13.0448441!2d47.8014154!1m5!1m1!1s0x476d079e5136ca9f:0xfdc2e58a51a25b46!2m2!1d16.3713095!2d48.2080696!1m5!1m1!1s0x476c89360aca6197:0x631f9b82fd884368!2m2!1d17.1077478!2d48.1485965!1m5!1m1!1s0x470b939c0970798b:0x400af0f66164090!2m2!1d14.4378005!2d50.0755381!1m5!1m1!1s0x471ecc669a869f01:0x72f0be2a88ead3fc!2m2!1d21.0122287!2d52.2296756!1m5!1m1!1s0x46fd731c14d4fa6f:0x9bb9fbf163b7be8d!2m2!1d18.6466384!2d54.3520252!3e0?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D)
+  - Poland[Gdansk-Warsaw-[Wroclaw/Lodz?]] - Chechia[Prague] 
+  Italy[Rome->LevicoAlisTown(5 hours|40USD)]->Austria->Chechia
 * Rent:
   * Poland - 20-30 USD (/2 for 2 person)
   * Austria
