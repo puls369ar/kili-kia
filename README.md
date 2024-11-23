@@ -39,8 +39,8 @@ Prague - Nuremberg(transit) - Frankfurt - Luxemburg - Paris - Lyon - Turin(Trans
 1․ Զբոսաշրջություն․
 
 Անդամ բոլոր պետություններում կեցության վայրի մասին ապացույց, եթե դիմողը պատրաստվում է այցելել մի քանի անդամ պետություն
-     ```
- 
+ ```
+
   - Apply in local consulate (35EUR)
   - Apply maximum 6 months before (Apply in  Feb to be eligible in Jul)
 
@@ -49,7 +49,7 @@ Prague - Nuremberg(transit) - Frankfurt - Luxemburg - Paris - Lyon - Turin(Trans
 
 
 
-
+# From now not related to Europe Trip
 # kili-kia
 In this repo I'll assemble all the details about initialization of my marketing/sponsorhsip project where I am trying to 
 be funded for my Kilimanjaro Climbing. Here is presented PPT Plan and concept, also my marathon training schedule and notes and insights for Trek running.
