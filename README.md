@@ -19,8 +19,8 @@
 * Nuremberg(Transit)/Frankfurt 21 jun 2:55 - 06:00  18 eur [link](https://shop.global.flixbus.com/checkout)
 * Frankfurt Central Station/Luxemburg(Transit) P+R Bouillon - 25Jun 22:45 - 01:55 | 19EUR [link](https://shop.global.flixbus.com/search?departureCity=40d90407-8646-11e6-9066-549f350fcb0c&arrivalCity=40da71d6-8646-11e6-9066-549f350fcb0c&route=Frankfurt-Luxembourg&rideDate=25.06.2025&adult=1&_locale=en&departureCountryCode=DE&arrivalCountryCode=LU&features%5Bfeature.enable_distribusion%5D=1&features%5Bfeature.train_cities_only%5D=0&features%5Bfeature.auto_update_disabled%5D=0&features%5Bfeature.webc_search_us_veterans_promoted%5D=0&features%5Bfeature.darken_page%5D=1)
 * Luxemburg(Transit) P+R Bouillon/Paris(Bercy Seine) - 26Jun 9:00-14:10 | 17EUR [link](https://shop.global.flixbus.com/search?departureCity=40da71d6-8646-11e6-9066-549f350fcb0c&arrivalCity=40de8964-8646-11e6-9066-549f350fcb0c&route=Luxembourg-Paris&rideDate=26.06.2025&adult=1&_locale=en&departureCountryCode=LU&arrivalCountryCode=FR&features%5Bfeature.enable_distribusion%5D=1&features%5Bfeature.train_cities_only%5D=0&features%5Bfeature.auto_update_disabled%5D=0&features%5Bfeature.webc_search_us_veterans_promoted%5D=0&features%5Bfeature.darken_page%5D=1)
-* Paris/Dijon(Transit) - 4h
-* Dijon(Transit)/Lyon
+* Paris/Dijon(Transit) - 29Jun 23:30-03:05 | 16EUR [link](https://shop.global.flixbus.com/search?departureCity=40de8964-8646-11e6-9066-549f350fcb0c&arrivalCity=40df6b63-8646-11e6-9066-549f350fcb0c&route=Paris-Dijon&rideDate=29.06.2025&adult=1&_locale=en&departureCountryCode=FR&arrivalCountryCode=FR&features%5Bfeature.enable_distribusion%5D=1&features%5Bfeature.train_cities_only%5D=0&features%5Bfeature.auto_update_disabled%5D=0&features%5Bfeature.webc_search_us_veterans_promoted%5D=0&features%5Bfeature.darken_page%5D=1)
+* Dijon(Transit)/Lyon - 30Jun 12:10-14:45 | 9EUR [link](https://shop.global.flixbus.com/search?departureCity=40df6b63-8646-11e6-9066-549f350fcb0c&arrivalCity=40df89c1-8646-11e6-9066-549f350fcb0c&route=Dijon-Lyon&rideDate=30.06.2025&adult=1&_locale=en&departureCountryCode=FR&arrivalCountryCode=FR&features%5Bfeature.enable_distribusion%5D=1&features%5Bfeature.train_cities_only%5D=0&features%5Bfeature.auto_update_disabled%5D=0&features%5Bfeature.webc_search_us_veterans_promoted%5D=0&features%5Bfeature.darken_page%5D=1)
 * Lyon/Valence(Transit) - 2h
 * Valence(Transit)/Marsel
 * Marsel/Nice(Trasnit) - 3h
@@ -29,24 +29,23 @@
 * Turin(Transit)/Milan
 * Milan/Levico
 * Levico/Dolomites(Transit)/Levico
-* Levico/Venice
-* Venice/Bologna(Transit)
+* Levico/Venice/Levico
+* Levico/Bologna(Transit)
 * Bologna(Transit)/Florence
 * Florence/Rome - 4h
 * Rome/Naples(Transit) - 2h 30min
   
 * Accomodation:
-  * [Prague](https://www.airbnb.com/rooms/818157380348087977?adults=2&search_mode=regular_search&check_in=2025-06-20&check_out=2025-06-21&source_impression_id=p3_1732391513_P3479uc-O3xjVcop&previous_page_section_name=1000&federated_search_id=c742ae85-b7d8-4f07-ae6a-5fcf519db156) - 20 USD
-  * [Frankfurt](https://www.airbnb.com/rooms/1151984779721981753?adults=2&category_tag=Tag%3A8678&enable_m3_private_room=true&location=Prague%2C%20Czechia&photo_id=1911876383&search_mode=regular_search&check_in=2025-06-22&check_out=2025-06-23&source_impression_id=p3_1732391661_P3Do9ZIe8qcV0Wu5&previous_page_section_name=1001&federated_search_id=ea1ebe7c-c492-45cc-8272-a3bdeee20112) - 10 USD
-  * [Paris](https://www.airbnb.com/rooms/1086830488380122662?adults=2&location=Luxembourg%2C%20Luxembourg&search_mode=regular_search&check_in=2025-06-26&check_out=2025-06-27&source_impression_id=p3_1732388472_P3fj2yEpvOLAVKiY&previous_page_section_name=1001&federated_search_id=0dc62ea3-a90c-4f64-8fb4-9954be676b4c&guests=2) - 12 USD
-  * Lyon - Host
-  * [Marcel](https://www.airbnb.com/rooms/1193402830075524211?adults=2&category_tag=Tag%3A8678&enable_m3_private_room=true&location=Marseille%2C%20France&photo_id=1945342345&search_mode=regular_search&check_in=2025-06-19&check_out=2025-06-20&source_impression_id=p3_1732446623_P3ir2Hk6ybIcdhyL&previous_page_section_name=1001&federated_search_id=4ed79de7-d619-479e-ba1f-4252c4bcc04a) - 20 USD
-  * Monaco - >80USD prices only, check other possibilites
-  * [Milan](https://www.airbnb.com/rooms/1182470702543162841?adults=2&location=Milan%2C%20Lombardy%2C%20Italy&search_mode=regular_search&check_in=2025-06-24&check_out=2025-06-25&source_impression_id=p3_1732447177_P3sWKepsWTF3sgnl&previous_page_section_name=1001&federated_search_id=dfa0f1a9-94b9-418b-9173-206abf49e83d) - 13 USD
-  * Levico - Host
-  * [Venice](https://www.airbnb.com/rooms/1287748269942318281?adults=2&category_tag=Tag%3A8678&enable_m3_private_room=true&location=Venice%2C%20Veneto%2C%20Italy&photo_id=2028086638&search_mode=regular_search&check_in=2025-06-24&check_out=2025-06-25&source_impression_id=p3_1732446994_P3iAwW3uPeZNYPnc&previous_page_section_name=1001&federated_search_id=517b41c7-d030-4a5d-baf9-a7b4d78db85f) - 30 USD
-  * [Florence](https://www.airbnb.com/rooms/12299075?adults=2&category_tag=Tag%3A8678&enable_m3_private_room=true&location=Florence%2C%20Italy&photo_id=215570191&search_mode=regular_search&check_in=2025-06-24&check_out=2025-06-25&source_impression_id=p3_1732447337_P3B_48O71_Pe-yKE&previous_page_section_name=1001&federated_search_id=2b07f686-099e-4c7f-8773-3731c9bf5898) - 22 USD
-  * [Rome](https://www.airbnb.com/rooms/470817?adults=2&category_tag=Tag%3A8678&enable_m3_private_room=true&photo_id=4242614&search_mode=regular_search&check_in=2025-06-24&check_out=2025-06-25&source_impression_id=p3_1732447474_P3Wo7FapCD4HIRj3&previous_page_section_name=1000&federated_search_id=883d25f9-b27f-4cee-a512-2cffe9c9f24c) - 15 USD
+  * [Prague](https://www.airbnb.com/rooms/818157380348087977?adults=2&search_mode=regular_search&check_in=2025-06-20&check_out=2025-06-21&source_impression_id=p3_1732391513_P3479uc-O3xjVcop&previous_page_section_name=1000&federated_search_id=c742ae85-b7d8-4f07-ae6a-5fcf519db156) - 20 USD - 3 nights
+  * [Frankfurt](https://www.airbnb.com/rooms/1151984779721981753?adults=2&category_tag=Tag%3A8678&enable_m3_private_room=true&location=Prague%2C%20Czechia&photo_id=1911876383&search_mode=regular_search&check_in=2025-06-22&check_out=2025-06-23&source_impression_id=p3_1732391661_P3Do9ZIe8qcV0Wu5&previous_page_section_name=1001&federated_search_id=ea1ebe7c-c492-45cc-8272-a3bdeee20112) - 10 USD - 2 nights
+  * [Paris](https://www.airbnb.com/rooms/1086830488380122662?adults=2&location=Luxembourg%2C%20Luxembourg&search_mode=regular_search&source_impression_id=p3_1732388472_P3fj2yEpvOLAVKiY&previous_page_section_name=1001&federated_search_id=0dc62ea3-a90c-4f64-8fb4-9954be676b4c&guests=2&check_in=2025-06-26&check_out=2025-06-29) - 43USD/3nights
+  * Lyon - Host - 2 nights
+  * [Marcel](https://www.airbnb.com/rooms/1193402830075524211?adults=2&category_tag=Tag%3A8678&enable_m3_private_room=true&location=Marseille%2C%20France&photo_id=1945342345&search_mode=regular_search&check_in=2025-06-19&check_out=2025-06-20&source_impression_id=p3_1732446623_P3ir2Hk6ybIcdhyL&previous_page_section_name=1001&federated_search_id=4ed79de7-d619-479e-ba1f-4252c4bcc04a) - 20 USD - 2 days
+  * Monaco - >80USD prices only, check other possibilites - 1 nights
+  * [Milan](https://www.airbnb.com/rooms/1182470702543162841?adults=2&location=Milan%2C%20Lombardy%2C%20Italy&search_mode=regular_search&check_in=2025-06-24&check_out=2025-06-25&source_impression_id=p3_1732447177_P3sWKepsWTF3sgnl&previous_page_section_name=1001&federated_search_id=dfa0f1a9-94b9-418b-9173-206abf49e83d) - 13 USD - 3 nights
+  * Levico - Host - 3 nights
+  * [Florence](https://www.airbnb.com/rooms/12299075?adults=2&category_tag=Tag%3A8678&enable_m3_private_room=true&location=Florence%2C%20Italy&photo_id=215570191&search_mode=regular_search&check_in=2025-06-24&check_out=2025-06-25&source_impression_id=p3_1732447337_P3B_48O71_Pe-yKE&previous_page_section_name=1001&federated_search_id=2b07f686-099e-4c7f-8773-3731c9bf5898) - 22 USD - 2 nights
+  * [Rome](https://www.airbnb.com/rooms/470817?adults=2&category_tag=Tag%3A8678&enable_m3_private_room=true&photo_id=4242614&search_mode=regular_search&check_in=2025-06-24&check_out=2025-06-25&source_impression_id=p3_1732447474_P3Wo7FapCD4HIRj3&previous_page_section_name=1000&federated_search_id=883d25f9-b27f-4cee-a512-2cffe9c9f24c) - 15 USD | Also host possible - 3 nights
 
 
 * Visa: Only Poland Shengen C-type Visa is needed. [Guide](https://www.gov.pl/web/hayastan/c--------)
