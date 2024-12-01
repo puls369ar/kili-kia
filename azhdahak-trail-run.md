@@ -18,7 +18,7 @@ Sample Long Run Progression (Weeks 1–16)
 | 7    | 16 km (cut-back)  |
 | 8    | 26 km             |
 | 9    | 29 km             |
-| 10   | 22 km [trail](https://www.wikiloc.com/trail-running-trails/armenia-tsaghkunyats-loop-from-aghveran-13429964) Yerevan->NorHachn(Kilikia Bus Station) NorHachn->Arthur Resort House(Taxi)|
+| 10   | 22 km 1083m [trail](https://www.wikiloc.com/trail-running-trails/armenia-tsaghkunyats-loop-from-aghveran-13429964) Yerevan->NorHachn(Kilikia Bus Station) NorHachn->Arthur Resort House(Taxi)|
 | 11   | 32 km             |
 | 12   | 16 km (cut-back)  |
 | 13   | 35 km             |
