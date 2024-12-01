@@ -82,7 +82,7 @@ Sample Long Run Progression (Weeks 1–16)
 | 1    | 10 km             |
 | 2    | 13 km             |
 | 3    | 16 km             |
-| 4    | 10 km (cut-back)  |
+| 4    | 12 km [trail](https://www.alltrails.com/trail/armenia/tavush/nature-pilgrimage-trail-haghartsin-monastery)|
 | 5    | 19 km             |
 | 6    | 23 km             |
 | 7    | 16 km (cut-back)  |
@@ -100,11 +100,10 @@ Sample Long Run Progression (Weeks 1–16)
 Weekly Running Schedule for first 8 weeks
 
 # Weekly Running Schedule
-
-- **Monday**: Rest or cross-training.  
-- **Tuesday**: Speed intervals – 6 km at 4:45 min/km.  
+All in the morning
+- **Tuesday**: Speed intervals  
 - **Thursday**: Tempo run – 8 km at 5:40 min/km.  
-- **Saturday**: Long run – 20 km at 6:20 min/km.
+- **Sunday**: Long run
 
 
 # PPT Design
